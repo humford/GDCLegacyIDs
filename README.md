@@ -6,4 +6,4 @@ Running "TCGA_barcode_transformer.py" script will prompt the user for the file p
 
 The "barcode_reformatter.py" script will convert the TCGA barcodes obtained from the previous script into an array which can be used as a manual search term on the GDC portal.
 
-(c)2017 Henry Williams
+&copy; Henry Williams 2017
